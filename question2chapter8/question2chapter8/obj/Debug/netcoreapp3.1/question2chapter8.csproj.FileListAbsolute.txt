@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\bin\Debug\netcoreapp3.1\question2chapter8.exe
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\bin\Debug\netcoreapp3.1\question2chapter8.deps.json
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\bin\Debug\netcoreapp3.1\question2chapter8.runtimeconfig.json
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\bin\Debug\netcoreapp3.1\question2chapter8.runtimeconfig.dev.json
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\bin\Debug\netcoreapp3.1\question2chapter8.dll
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\bin\Debug\netcoreapp3.1\question2chapter8.pdb
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\obj\Debug\netcoreapp3.1\question2chapter8.csprojAssemblyReference.cache
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\obj\Debug\netcoreapp3.1\question2chapter8.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\obj\Debug\netcoreapp3.1\question2chapter8.AssemblyInfo.cs
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\obj\Debug\netcoreapp3.1\question2chapter8.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\obj\Debug\netcoreapp3.1\question2chapter8.dll
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\obj\Debug\netcoreapp3.1\question2chapter8.pdb
+C:\Users\1\source\repos\somemorepractice\question2chapter8\question2chapter8\obj\Debug\netcoreapp3.1\question2chapter8.genruntimeconfig.cache
