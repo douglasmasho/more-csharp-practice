@@ -21,6 +21,7 @@ namespace question3chapter8
             Program program = new Program();
 
             Console.WriteLine(program.GetFlightInfo(21));
+            Console.WriteLine(program.GetFlightInfo("DFW"));
         }
 
         public string GetFlightInfo(int flightNum)
@@ -32,6 +33,20 @@ namespace question3chapter8
                 if(flight.FlightNum == flightNum)
                 {
                     result = $"Airport Code: {flight.AirportCode} \n Airport Name: {flight.AirportName} \n Flight Time: {flight.Time}";
+                }
+            }
+            return result;
+        }
+
+        public string GetFlightInfo(string airportCode)
+        {
+            string result = "Could not find your flight";
+            //look for the right flight 
+            foreach (Flight flight in FlightArr)
+            {
+                if (flight.AirportCode == airportCode)
+                {
+                    result = $"Flight Number: {flight.FlightNum} \n Airport Name: {flight.AirportName} \n Flight Time: {flight.Time}";
                 }
             }
             return result;
