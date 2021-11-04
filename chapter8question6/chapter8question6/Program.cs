@@ -1,4 +1,11 @@
 ﻿using System;
+/*
+ Write a program named InputMethodDemo2 that eliminates the repetitive code 
+in the InputMethod() in the InputMethodDemo program in Figure 8-5. Rewrite the 
+program so the InputMethod() contains only two statements:
+one = DataEntry("first");
+two = DataEntry("second");
+ */
 
 namespace chapter8question6
 {
