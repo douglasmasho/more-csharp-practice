@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\chapter8question6\chapter8question6\obj\Debug\netcoreapp3.1\chapter8question6.csprojAssemblyReference.cache
+C:\Users\1\source\repos\chapter8question6\chapter8question6\obj\Debug\netcoreapp3.1\chapter8question6.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\chapter8question6\chapter8question6\obj\Debug\netcoreapp3.1\chapter8question6.AssemblyInfo.cs
+C:\Users\1\source\repos\chapter8question6\chapter8question6\obj\Debug\netcoreapp3.1\chapter8question6.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\chapter8question6\chapter8question6\bin\Debug\netcoreapp3.1\chapter8question6.exe
+C:\Users\1\source\repos\chapter8question6\chapter8question6\bin\Debug\netcoreapp3.1\chapter8question6.deps.json
+C:\Users\1\source\repos\chapter8question6\chapter8question6\bin\Debug\netcoreapp3.1\chapter8question6.runtimeconfig.json
+C:\Users\1\source\repos\chapter8question6\chapter8question6\bin\Debug\netcoreapp3.1\chapter8question6.runtimeconfig.dev.json
+C:\Users\1\source\repos\chapter8question6\chapter8question6\bin\Debug\netcoreapp3.1\chapter8question6.dll
+C:\Users\1\source\repos\chapter8question6\chapter8question6\bin\Debug\netcoreapp3.1\chapter8question6.pdb
+C:\Users\1\source\repos\chapter8question6\chapter8question6\obj\Debug\netcoreapp3.1\chapter8question6.dll
+C:\Users\1\source\repos\chapter8question6\chapter8question6\obj\Debug\netcoreapp3.1\chapter8question6.pdb
+C:\Users\1\source\repos\chapter8question6\chapter8question6\obj\Debug\netcoreapp3.1\chapter8question6.genruntimeconfig.cache
